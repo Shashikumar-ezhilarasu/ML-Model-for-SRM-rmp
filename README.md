@@ -9,7 +9,7 @@ We participated in the **Data-Alchemy** competition hosted by SlugNPlug at SRM I
   - Handles both numerical and categorical data
   - Captures non-linear relationships
   - Robust to missing values and outliers
-  - Reduces overfitting using bagging
+  - Reduces overfitting using bagging 
   - Provides feature importance insights
 
 ## Results & Insights
